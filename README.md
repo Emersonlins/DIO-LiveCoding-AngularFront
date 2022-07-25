@@ -1,4 +1,4 @@
-# Livraria
+# Livraria/Projeto Angular DIO
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.2.2.
 
