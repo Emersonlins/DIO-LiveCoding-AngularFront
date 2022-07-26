@@ -1,6 +1,6 @@
 # Livraria/Projeto Angular DIO
 
- ** Vou utilizar este espaço para compartilhar minha experiência como iniciante neste mundo de desenvolvedor. **
+**Vou utilizar este espaço para compartilhar minha experiência como iniciante neste mundo de desenvolvedor.
 
 A didática apresentada pela DIO neste bootcamp não é compatível para pessoas iniciantes, 
 
