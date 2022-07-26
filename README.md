@@ -4,9 +4,12 @@ Vou utilizar este espaço para compartilhar minha experiência como iniciante ne
 
 A didática apresentada pela DIO neste bootcamp não é compatível para pessoas iniciantes, 
 
-as aulas na verdade são lives direcionados a pessoas com um conhecimento prévio.
+as aulas na verdade são lives direcionados a profissionais da área de TI. Não gostaria de entregar apenas uma "cópia". 
 
-Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.2.2.
+Mas para entregar o projeto e tentar realizar o bootcamp no prazo apenas isso será possível, mas mesmo assim vale para se ter uma 
+
+boa noção da ferramenta.
+
 
 ## Servidor de desenvolvimento
 
