@@ -1,14 +1,14 @@
 # Livraria/Projeto Angular DIO
 
-Vou utilizar este espaço para compartilhar minha experiência como iniciante neste mundo de desenvolvedor. 
+ **_Vou utilizar este espaço para compartilhar minha experiência como iniciante neste mundo de desenvolvedor. 
 
-A didática apresentada pela DIO neste bootcamp não é compatível para pessoas iniciantes, 
+**_A didática apresentada pela DIO neste bootcamp não é compatível para pessoas iniciantes, 
 
-as aulas na verdade são lives direcionados a profissionais da área de TI. Não gostaria de entregar apenas uma "cópia". 
+**_as aulas na verdade são lives direcionados a profissionais da área de TI. Não gostaria de entregar apenas uma "cópia". 
 
-Mas para entregar o projeto e tentar realizar o bootcamp no prazo apenas isso será possível, mas mesmo assim vale para se ter uma 
+**_Mas para entregar o projeto e tentar realizar o bootcamp no prazo apenas isso será possível, mas mesmo assim vale para se ter uma 
 
-boa noção da ferramenta.
+**_boa noção da ferramenta.
 
 
 ## Servidor de desenvolvimento
